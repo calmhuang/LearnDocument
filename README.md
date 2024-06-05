@@ -1,1 +1,3 @@
-# LearnDocument
+# LearnDocument  
+
+## 这是一个学习记录仓库，存储学习文档，不同类型的学习文档会存储在不同文件夹下
